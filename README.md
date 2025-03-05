@@ -197,6 +197,8 @@ def visualize_similarity_distribution(similarity_scores, threshold=0.7):
     plt.show()
 
 visualize_similarity_distribution(similarity_matrix.flatten())
+
+
 Contributing
 Contributions are always welcome! Feel free to open an issue or create a pull request for bug fixes, new features, or improvements.
 
