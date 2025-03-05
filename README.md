@@ -1,4 +1,4 @@
-# Job Recommendation System using NLP and Cosine Similarity
+#  Real-Time Resume-Based Internship Matching Engine with Gen AI for Career Guidance
 
 Welcome to the **Job Recommendation System**! This project matches job descriptions from internship data with resumes using natural language processing (NLP) techniques. By leveraging cosine similarity, it finds the most relevant job descriptions for given resumes, helping job seekers find their best-fit opportunities.
 
@@ -8,19 +8,19 @@ Welcome to the **Job Recommendation System**! This project matches job descripti
 
 ## Table of Contents
 
-| Section          | Link                                                                 |
-|------------------|----------------------------------------------------------------------|
-| **Overview**      | [#overview](#overview)                                               |
-| **Technologies**  | [#technologies-used](#technologies-used)                             |
-| **Data Preparation** | [#data-preparation](#data-preparation)                           |
-| **Preprocessing** | [#preprocessing](#preprocessing)                                     |
-| **Model**         | [#model](#model)                                                     |
-| **Evaluation**    | [#evaluation](#evaluation)                                           |
-| **Visualization** | [#visualization](#visualization)                                     |
-| **Installation**  | [#installation](#installation)                                       |
-| **Usage**         | [#usage](#usage)                                                     |
-| **Contributing**  | [#contributing](#contributing)                                       |
-| **License**       | [#license](#license)                                                 |
+| Section          | 
+|------------------| 
+| **Overview**      | 
+| **Technologies**  | 
+| **Data Preparation** | 
+| **Preprocessing** | 
+| **Model**         | 
+| **Evaluation**    | 
+| **Visualization** | 
+| **Installation**  | 
+| **Usage**         | 
+| **Contributing**  | 
+| **License**       | 
 
 ---
 
